@@ -1,5 +1,5 @@
 /*
-Ai nevoie de Arduino, 2 led-uri, breadboard, 2 rezistori 220ohm, cabluri mama-mama)
+Ai nevoie de Arduino, 2 led-uri, breadboard, 2 rezistori 220ohm, jumperwire cables)
 */
 void setup() { 
   pinMode(12,OUTPUT);
